@@ -21,7 +21,7 @@ namespace DemoAzureStorageExplorer
 
         private async void btnReadLog_Click(object sender, EventArgs e)
         {
-            AzureStorageManager azStorageMgr = new AzureStorageManager("DefaultEndpointsProtocol=https;AccountName=bdpstoacc;AccountKey=cHiG1TBtuOnHHmf+vLJgQBTxhVqSmELqkbYnGjDk9bgtFP1TJZr39F9RJtfK4HTJPtuP9fDDwgQuh44tU6tIGQ==;EndpointSuffix=core.windows.net", "BdpFamilySanitizer");
+            AzureStorageManager azStorageMgr = new AzureStorageManager("<YOUR CONN STRING FROM AZURE>", "BdpFamilySanitizer");
             DesignAutomationRecord[] dars = await azStorageMgr.ReadAutomationRecord("DesignAutomationLog");
 
             logBox.Items.Clear();
