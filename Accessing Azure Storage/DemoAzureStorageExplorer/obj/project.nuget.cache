@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3R2KlQtjo8cYh728OdIbmw29POKISqAmqV20dZZSxBaz+IYWwIQKmyFRrVQnvUZ6Raj0ntrisT4c3Fim6BX15g==",
+  "dgSpecHash": "Hm3y1xL4v9x6MFXO6kj6O/UoukWvBIntc6shgvRo8+rY8uPsu15ql2Da+W0Kj7Y6pCn02zRA9MoQOLkKySCtuQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\pagang\\Documents\\Azure Training\\MySamples\\Accessing Azure Storage\\DemoAzureStorageExplorer\\DemoAzureStorageExplorer.csproj",
   "expectedPackageFiles": [
@@ -42,6 +42,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\pagang\\.nuget\\packages\\netstandard.library\\1.6.0\\netstandard.library.1.6.0.nupkg.sha512",
     "C:\\Users\\pagang\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\pagang\\.nuget\\packages\\restsharp\\106.11.4\\restsharp.106.11.4.nupkg.sha512",
     "C:\\Users\\pagang\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
     "C:\\Users\\pagang\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
     "C:\\Users\\pagang\\.nuget\\packages\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",

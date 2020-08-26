@@ -30,15 +30,16 @@
         {
             this.btnReadLog = new System.Windows.Forms.Button();
             this.logBox = new System.Windows.Forms.ListBox();
+            this.btnWebApi = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnReadLog
             // 
             this.btnReadLog.Location = new System.Drawing.Point(12, 12);
             this.btnReadLog.Name = "btnReadLog";
-            this.btnReadLog.Size = new System.Drawing.Size(75, 23);
+            this.btnReadLog.Size = new System.Drawing.Size(144, 23);
             this.btnReadLog.TabIndex = 0;
-            this.btnReadLog.Text = "Read Log";
+            this.btnReadLog.Text = "Access log via dll";
             this.btnReadLog.UseVisualStyleBackColor = true;
             this.btnReadLog.Click += new System.EventHandler(this.btnReadLog_Click);
             // 
@@ -54,11 +55,22 @@
             this.logBox.Size = new System.Drawing.Size(776, 394);
             this.logBox.TabIndex = 1;
             // 
+            // btnWebApi
+            // 
+            this.btnWebApi.Location = new System.Drawing.Point(178, 12);
+            this.btnWebApi.Name = "btnWebApi";
+            this.btnWebApi.Size = new System.Drawing.Size(154, 23);
+            this.btnWebApi.TabIndex = 2;
+            this.btnWebApi.Text = "Access log via web API";
+            this.btnWebApi.UseVisualStyleBackColor = true;
+            this.btnWebApi.Click += new System.EventHandler(this.button1_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnWebApi);
             this.Controls.Add(this.logBox);
             this.Controls.Add(this.btnReadLog);
             this.Name = "Form1";
@@ -71,6 +83,7 @@
 
         private System.Windows.Forms.Button btnReadLog;
         private System.Windows.Forms.ListBox logBox;
+        private System.Windows.Forms.Button btnWebApi;
     }
 }
 

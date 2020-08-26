@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DemoAzureStorageExplorer": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "STORAGECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=bdpstoacc;AccountKey=cHiG1TBtuOnHHmf+vLJgQBTxhVqSmELqkbYnGjDk9bgtFP1TJZr39F9RJtfK4HTJPtuP9fDDwgQuh44tU6tIGQ==;EndpointSuffix=core.windows.net"
+      }
+    }
+  }
+}

@@ -101,8 +101,9 @@ C:\Users\pagang\Documents\Azure Training\MySamples\Accessing Azure Storage\DemoA
 C:\Users\pagang\Documents\Azure Training\MySamples\Accessing Azure Storage\DemoAzureStorageExplorer\obj\Debug\netcoreapp3.1\DemoAzureStorageExplorer.csproj.GenerateResource.cache
 C:\Users\pagang\Documents\Azure Training\MySamples\Accessing Azure Storage\DemoAzureStorageExplorer\obj\Debug\netcoreapp3.1\DemoAzureStorageExplorer.AssemblyInfoInputs.cache
 C:\Users\pagang\Documents\Azure Training\MySamples\Accessing Azure Storage\DemoAzureStorageExplorer\obj\Debug\netcoreapp3.1\DemoAzureStorageExplorer.AssemblyInfo.cs
-C:\Users\pagang\Documents\Azure Training\MySamples\Accessing Azure Storage\DemoAzureStorageExplorer\obj\Debug\netcoreapp3.1\DemoAzureStorageExplorer.csproj.CoreCompileInputs.cache
 C:\Users\pagang\Documents\Azure Training\MySamples\Accessing Azure Storage\DemoAzureStorageExplorer\obj\Debug\netcoreapp3.1\DemoAzureStorageExplorer.csproj.CopyComplete
 C:\Users\pagang\Documents\Azure Training\MySamples\Accessing Azure Storage\DemoAzureStorageExplorer\obj\Debug\netcoreapp3.1\DemoAzureStorageExplorer.dll
 C:\Users\pagang\Documents\Azure Training\MySamples\Accessing Azure Storage\DemoAzureStorageExplorer\obj\Debug\netcoreapp3.1\DemoAzureStorageExplorer.pdb
 C:\Users\pagang\Documents\Azure Training\MySamples\Accessing Azure Storage\DemoAzureStorageExplorer\obj\Debug\netcoreapp3.1\DemoAzureStorageExplorer.genruntimeconfig.cache
+C:\Users\pagang\Documents\Azure Training\MySamples\Accessing Azure Storage\DemoAzureStorageExplorer\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\pagang\Documents\Azure Training\MySamples\Accessing Azure Storage\DemoAzureStorageExplorer\obj\Debug\netcoreapp3.1\DemoAzureStorageExplorer.csproj.CoreCompileInputs.cache

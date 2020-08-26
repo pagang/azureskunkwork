@@ -66,3 +66,5 @@ C:\Users\pagang\Documents\Azure Training\MySamples\Accessing Azure Storage\DemoW
 C:\Users\pagang\Documents\Azure Training\MySamples\Accessing Azure Storage\DemoWebApi\obj\Debug\netcoreapp3.1\DemoWebApi.dll
 C:\Users\pagang\Documents\Azure Training\MySamples\Accessing Azure Storage\DemoWebApi\obj\Debug\netcoreapp3.1\DemoWebApi.pdb
 C:\Users\pagang\Documents\Azure Training\MySamples\Accessing Azure Storage\DemoWebApi\obj\Debug\netcoreapp3.1\DemoWebApi.genruntimeconfig.cache
+C:\Users\pagang\Documents\Azure Training\MySamples\Accessing Azure Storage\DemoWebApi\bin\Debug\netcoreapp3.1\Postman\BDP Demo API.postman_collection.json
+C:\Users\pagang\Documents\Azure Training\MySamples\Accessing Azure Storage\DemoWebApi\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\bdptestwebapi - Web Deploy\profile.arm.json

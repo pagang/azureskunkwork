@@ -15,7 +15,7 @@
       "launchUrl": "api/azuredemo/AutomationRecord",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development",
-        "STORAGECONNECTIONSTRING": "<YOUR CONN STRING FROM AZURE>"
+        "STORAGECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=bdpstoacc;AccountKey=cHiG1TBtuOnHHmf+vLJgQBTxhVqSmELqkbYnGjDk9bgtFP1TJZr39F9RJtfK4HTJPtuP9fDDwgQuh44tU6tIGQ==;EndpointSuffix=core.windows.net"
       }
     },
     "DemoWebApi": {
